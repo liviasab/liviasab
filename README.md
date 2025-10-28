@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend e pesquisadora CNPq`**
 
-Olá! Me chamo Lívia Sabino, tenho 23 anos e sou natural de Pernambuco. Atualmente, curso Tecnologia em Sistemas para Internet no IFPE. Sou curiosa e apaixonada por tecnologia e, além disso, atuo como pesquisadora na área de educação tecnológica. Você pode saber mais sobre minha trajetória acessando meu "[Currículo Lattes](http://lattes.cnpq.br/0388421832449266)".
+Olá! Me chamo Lívia Sabino, tenho 23 anos e sou natural de Pernambuco. Atualmente, curso Tecnologia em Sistemas para Internet no IFPE. Sou curiosa e apaixonada por tecnologia e, além disso, atuo como estágiaria em desenvolvimento de Software e pesquisadora na área de educação tecnológica. Você pode saber mais sobre minha trajetória acessando meu "[Currículo Lattes](http://lattes.cnpq.br/0388421832449266)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sabinodev/" target="_blank">
