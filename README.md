@@ -5,20 +5,6 @@
 Olá! Me chamo Lívia Sabino, tenho 23 anos e sou natural de Pernambuco. Atualmente, curso Tecnologia em Sistemas para Internet no IFPE. Sou curiosa e apaixonada por tecnologia e, além disso, atuo como pesquisadora na área de educação tecnológica. Você pode saber mais sobre minha trajetória acessando meu "[Currículo Lattes](http://lattes.cnpq.br/0388421832449266)".
 
 <p align="left">
-    <a href="https://github.com/liviasab?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/liviasab?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/liviasab?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/liviasab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/sabinodev/" target="_blank">
       <img 
          alt="LinkedIn" 
