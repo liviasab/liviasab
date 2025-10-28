@@ -53,19 +53,11 @@ Olá! Me chamo Lívia Sabino, tenho 23 anos e sou natural de Pernambuco. Atualme
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Nodejs" 
+    title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -83,6 +75,22 @@ Olá! Me chamo Lívia Sabino, tenho 23 anos e sou natural de Pernambuco. Atualme
 
 ### 💡 Estudando
 
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
