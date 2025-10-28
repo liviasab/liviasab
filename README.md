@@ -19,6 +19,14 @@ Olá! Me chamo Lívia Sabino, tenho 23 anos e sou natural de Pernambuco. Atualme
             src="https://custom-icon-badges.demolab.com/github/followers/liviasab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/sabinodev/" target="_blank">
+      <img 
+         alt="LinkedIn" 
+         title="Conecte-se comigo no LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
 </p>
 
 ---
