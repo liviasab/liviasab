@@ -1,4 +1,4 @@
-# 🦑👩‍💻 Lívia Sabino
+# 🐙👩‍💻 Lívia Sabino
 
 **`Desenvolvedora Backend e pesquisadora CNPq`**
 
